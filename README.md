@@ -33,5 +33,11 @@ Design a backdoor detector for BadNets trained on the YouTube Face dataset using
         └── anonymous_2_bd_net.h5
         └── anonymous_2_bd_weights.h5
     
-  
+##II. Dependencies
+1. Python 3.6.9
+2. Keras 2.3.1
+3. Numpy 1.16.3
+4. Matplotlib 2.2.2
+5. H5py 2.9.0
+6. TensorFlow-gpu 1.15.2
      
