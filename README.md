@@ -6,8 +6,8 @@ Tianhao Wang
 
 ### Goal: 
 Design a backdoor detector for BadNets trained on the YouTube Face dataset using the pruning defense.
-
-'├── data 
+    
+    ├── data 
     └── clean_validation_data.h5 // this is clean data used to evaluate the BadNet and design the backdoor defense
     └── clean_test_data.h5
     └── sunglasses_poisoned_data.h5
