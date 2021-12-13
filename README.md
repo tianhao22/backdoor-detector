@@ -16,14 +16,14 @@ Design a backdoor detector for BadNets trained on the YouTube Face dataset using
         └── eyebrows_poisoned_data.h5
         └── lipstick_poisoned_data.h5
         └── sunglasses_poisoned_data.h5
-        
-├── GoodNets
+    
+    ├── GoodNets
     └── eval_anonymous_1.py //anonymous_1_bd_net.h5
     └── eval_anonymous_2.py //anonymous_2_bd_net.h5
     └── eval_multi.py //multi_trigger_multi_target_bd_net.h5
     └── eval_sunglasses.py // Goodnet for sunglasses_bd_net.h5
-        
-├── models
+    
+    ├── models
     └── sunglasses_bd_net.h5
     └── sunglasses_bd_weights.h5
     └── multi_trigger_multi_target_bd_net.h5
@@ -33,7 +33,5 @@ Design a backdoor detector for BadNets trained on the YouTube Face dataset using
     └── anonymous_2_bd_net.h5
     └── anonymous_2_bd_weights.h5
     
-├── test_images   
-
-├── MLCS_Final_Project_Report.pdf'
+  
      
