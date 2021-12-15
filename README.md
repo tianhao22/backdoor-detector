@@ -2,7 +2,7 @@
 
 ## I.Project details
 ### Author: 
-Tianhao Wang
+Tianhao Wang (tw2245)
 
 ### Goal: 
 Design a backdoor detector for BadNets trained on the YouTube Face dataset using the pruning defense.
