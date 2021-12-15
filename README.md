@@ -37,8 +37,9 @@ Design a backdoor detector for BadNets trained on the YouTube Face dataset using
 
 ## II. Data
    1. Download the validation and test datasets from [here](https://drive.google.com/drive/folders/1Rs68uH8Xqa4j6UxG53wzD0uyI8347dSq?usp=sharing) and store them under `data/` directory.
-   2. The dataset contains images from YouTube Aligned Face Dataset. We retrieve 1283 individuals and split into validation and test datasets.
-   3. bd_valid.h5 and bd_test.h5 contains validation and test images with sunglasses trigger respectively, that activates the backdoor for bd_net.h5. 
+   2. Also create a file called 'lab3' in your google drive, and store the data in that file.
+   3. The dataset contains images from YouTube Aligned Face Dataset. We retrieve 1283 individuals and split into validation and test datasets.
+   4. bd_valid.h5 and bd_test.h5 contains validation and test images with sunglasses trigger respectively, that activates the backdoor for bd_net.h5. 
 
 ## III. Evaluating the Backdoored Model
    1. The DNN architecture used to train the face recognition model is the state-of-the-art DeepID network. 
