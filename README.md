@@ -23,7 +23,7 @@ Design a backdoor detector for BadNets trained on the YouTube Face dataset using
     └── bd_net_prune_drop10.h5
     └── bd_net_prune_drop30.h5
 ├── architecture.py
-├── repair_model.ipynb  // code for lab3
+├── ml_security_lab3.ipynb  // code for lab3
 └── eval.py // this is the evaluation script
 ```
     
